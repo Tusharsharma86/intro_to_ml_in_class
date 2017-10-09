@@ -1,4 +1,4 @@
-# Getting Started with Python 
+# Introduction to Machine Learning
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
 ## At a glance
